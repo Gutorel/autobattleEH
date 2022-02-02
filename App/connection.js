@@ -1,4 +1,4 @@
-import { log } from "./botMarket.js";
+import { log } from "./battleMarket.js";
 
 const startConnection = (
   provider,

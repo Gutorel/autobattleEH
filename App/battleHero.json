@@ -1,0 +1,62 @@
+{
+  "battle": [
+    {
+      "_comment" : "b1",
+      "heroId": [18031, 27627, 15227],
+      "poolId": 3,
+      "pass": false
+    },
+    {
+      "_comment" : "b2",
+      "heroId": [18031, 27627, 15227],
+      "poolId": 3,
+      "pass": false
+    },
+    {
+      "_comment" : "b3",
+      "heroId": [18031, 27627, 15227],
+      "poolId": 3,
+      "pass": false
+    },
+    {
+      "_comment" : "b4",
+      "heroId": [18031, 27627, 15227],
+      "poolId": 3,
+      "pass": false
+    },
+    {
+      "_comment" : "b5",
+      "heroId": [15234, 15232, 15206],
+      "poolId": 3,
+      "pass": false
+    },
+    {
+      "_comment" : "b6",
+      "heroId": [15234, 15232, 15206],
+      "poolId": 3,
+      "pass": false
+    },
+    {
+      "_comment" : "b7",
+      "heroId": [15234, 15232, 15206],
+      "poolId": 3,
+      "pass": false
+    },
+    {
+      "_comment" : "b8",
+      "heroId": [18017, 18031, 15206],
+      "poolId": 3
+    },
+    {
+      "_comment" : "b9",
+      "heroId": [6308, 18017, 15206],
+      "poolId": 3
+    },
+    {
+      "_comment" : "b10",
+      "heroId": [6308, 15234, 15232],
+      "poolId": 3,
+      "pass": false
+    }
+  ]
+}
